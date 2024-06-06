@@ -5,6 +5,9 @@
 
 .paragrafo-padrao {
   background-color: #dcdcdc;
+  border-radius: 10px;
+  border-color: black;
+  border-style: dashed;
 }
 
 .paragrafo-destacado {
